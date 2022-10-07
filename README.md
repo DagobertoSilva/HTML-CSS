@@ -1,1 +1,1 @@
-# este Repositório contém apenas arquivos em HTML e CSS
+# este Repositório contém apenas Projetos em HTML e CSS
